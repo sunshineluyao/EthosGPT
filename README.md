@@ -45,7 +45,7 @@ EthosGPT builds on foundational studies such as CVALUES and CultureLLM to ensure
 Leverage advanced visualizations to explore LLM alignment across diverse cultural and ethical dimensions.
 
 ### 🔍 **Prompt-Based Evaluation**
-![Prompt Example](https://via.placeholder.com/800x400?text=Prompt+Based+Evaluation)
+![Prompt Example](prompt.webp)
 
 Analyze LLM responses using a structured prompt-based methodology, ensuring robust evaluation across scenarios.
 
