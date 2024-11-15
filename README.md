@@ -1,6 +1,6 @@
 # **EthosGPT: Charting the Human Values Landscape on a Global Scale**
 
-![EthosGPT Banner](https://via.placeholder.com/1200x400?text=EthosGPT+Banner)
+![EthosGPT](path/to/EthosGPT.webp)
 
 ## **Project Overview**
 
