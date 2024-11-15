@@ -40,17 +40,13 @@ EthosGPT builds on foundational studies such as CVALUES and CultureLLM to ensure
 ## **Core Components**
 
 ### 🗺️ **Multidimensional Mapping**
-![Value Mapping](mapping.webp)
-
 Leverage advanced visualizations to explore LLM alignment across diverse cultural and ethical dimensions.
 
 ### 🔍 **Prompt-Based Evaluation**
-![Prompt Example](prompt.webp)
 
 Analyze LLM responses using a structured prompt-based methodology, ensuring robust evaluation across scenarios.
 
 ### 📊 **Interactive Data Tools**
-![Interactive Tools](https://via.placeholder.com/800x400?text=Interactive+Tools)
 
 Empower users with tools that break disciplinary boundaries, fostering cross-domain research and insights.
 
