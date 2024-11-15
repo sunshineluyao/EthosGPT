@@ -66,3 +66,15 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
 
 3. **Visualize Results**  
    Generate intuitive visualizations that map LLM performance, highlighting strengths and potential biases.
+
+
+
+## References
+
+- Xu, G., Liu, J., Yan, M., et al. (2023). CVALUES: Measuring the Values of Chinese Large Language Models from Safety to Responsibility. [arXiv:2307.09705v1](https://arxiv.org/abs/2307.09705).
+- Li, C., Chen, M., Wang, J., et al. (2024). CultureLLM: Incorporating Cultural Differences into Large Language Models. [arXiv:2402.10946v2](https://arxiv.org/abs/2402.10946).
+- Kharchenko, J., Roosta, T., Chadha, A., & Shah, C. (2024). How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions. [arXiv:2406.14805v1](https://arxiv.org/abs/2406.14805).
+- Tao, Y., Viberg, O., Baker, R. S., & Kizilcec, R. F. (2024). Cultural Bias and Cultural Alignment of Large Language Models. *PNAS Nexus*, 3, pgae346. [DOI:10.1093/pnasnexus/pgae346](https://doi.org/10.1093/pnasnexus/pgae346).
+- Durante, Z., Huang, Q., Wake, N., et al. (2024). Agent AI: Surveying the Horizons of Multimodal Interaction. [arXiv:2401.03568v2](https://arxiv.org/abs/2401.03568).
+- Frisch, I., Giulianelli, M. (2024). LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models. [arXiv:2402.02896v1](https://arxiv.org/abs/2402.02896).
+
