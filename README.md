@@ -1,6 +1,6 @@
 # **EthosGPT: Charting the Human Values Landscape on a Global Scale**
 
-![EthosGPT](path/to/EthosGPT.webp)
+![EthosGPT](EthosGPT.webp)
 
 ## **Project Overview**
 
