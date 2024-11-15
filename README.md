@@ -40,7 +40,7 @@ EthosGPT builds on foundational studies such as CVALUES and CultureLLM to ensure
 ## **Core Components**
 
 ### 🗺️ **Multidimensional Mapping**
-![Value Mapping](https://via.placeholder.com/800x400?text=Value+Mapping+Visualization)
+![Value Mapping](mapping.webp)
 
 Leverage advanced visualizations to explore LLM alignment across diverse cultural and ethical dimensions.
 
