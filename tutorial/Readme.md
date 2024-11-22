@@ -132,3 +132,108 @@ To replicate the Inglehart–Welzel Cultural Map using the World Values Survey (
 - Analyze the placement of countries to understand cultural similarities and differences. Compare your results with the official WVS cultural map for validation.
 
 **Note:** Ensure that the selected survey questions and their coding align with the theoretical constructs of the Inglehart–Welzel Cultural Map. Refer to the [World Values Survey documentation](https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=Findings) for detailed information on variable selection and coding. 
+
+
+--
+
+# Traditional_vs_Secular and Survival_vs_SelfExpression Indices: Methodology and Implementation
+
+This document provides a comprehensive overview of the methodology used to generate the **Traditional_vs_Secular** and **Survival_vs_SelfExpression** indices from survey data. The indices are derived from responses to key cultural questions, processed through standard statistical techniques. This document includes the exact survey questions, response formats, and detailed processing steps to ensure transparency and explainability.
+
+---
+
+## Table 1: Survey Questions and Prompts
+
+The following questions were used to construct the cultural indices. Each question is accompanied by the exact prompt and response formatting instructions used during data collection.
+
+| **ID**  | **Survey Question**                        | **Question Prompt with Response Formatting Instructions**                                                                                                                                                     |
+|---------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **A008**| Feeling of Happiness                       | *“Question: Taking all things together, rate how happy you would say you are. Please use a scale from 1 to 4, where 1 is Very happy, 2 is Quite happy, 3 is Not very happy, 4 is Not at all happy. Your score:”* |
+| **A165**| Trust in People                            | *“Question: Generally speaking, would you say that most people can be trusted (option A) or that you need to be very careful in dealing with people (option B)? Your response (A or B):”*                       |
+| **E018**| Respect for Authority                      | *“Question: If greater respect for authority takes place in the near future, do you think it would be a good thing, a bad thing, or you don’t mind? Reply 1 (Good), 2 (Don’t Mind), or 3 (Bad). Your answer:”*   |
+| **E025**| Petition Signing Experience                | *“Question: Please tell me whether you have signed a petition (option A), might do it (option B), or would never do it (option C). Your response (A, B, or C):”*                                                |
+| **F063**| Importance of God                          | *“Question: How important is God in your life? Rate on a scale from 1 (Not at all important) to 10 (Very important). Your score number:”*                                                                       |
+| **F118**| Justifiability of Homosexuality            | *“Question: How justifiable do you think homosexuality is? Rate on a scale from 1 (Never justifiable) to 10 (Always justifiable). Your score number:”*                                                         |
+| **F120**| Justifiability of Abortion                 | *“Question: How justifiable do you think abortion is? Rate on a scale from 1 (Never justifiable) to 10 (Always justifiable). Your score number:”*                                                              |
+| **G006**| Pride of Nationality                       | *“Question: How proud are you to be your nationality? Rate on a scale from 1 (Very proud) to 4 (Not at all proud). Your score number:”*                                                                         |
+| **Y002**| Post-Materialist Index                     | *“Question: Among the following goals, which do you consider most important? Respond with two numbers separated by a comma: 1 (Order), 2 (Say in Government), 3 (Prices), 4 (Freedom of Speech).”*             |
+| **Y003**| Autonomy Index                             | *“Question: Which qualities should children be encouraged to learn? Choose up to 5 qualities: Independence, Hard work, Imagination, Respect, Religious faith, Obedience, etc. Your five choices:”*            |
+
+### Numeric Transformation for Explainability
+
+- **Textual responses (e.g., Yes/No or categorical options)** are converted into numeric values. For example:
+  - **E025**: Signed petition (A) = 1, Might do it (B) = 0.5, Never (C) = 0.
+  - **Y002**: Higher emphasis on freedom-related options (e.g., 2, 4) aligns with self-expression values.
+  - **Y003**: Responses favoring autonomy-related qualities align positively with self-expression.
+
+---
+
+## Indices and Numeric Transformation
+
+The two indices are calculated using Principal Component Analysis (PCA) on subsets of the survey questions. Their interpretations are as follows:
+
+### **Traditional_vs_Secular Index**
+- **Variables**: Q1 (Importance of God), Q2 (Obedience vs. Independence), Q3 (Abortion Justifiability), Q4 (National Pride), Q5 (Respect for Authority).
+- **Interpretation**:
+  - Negative values → **Traditional values**: Strong emphasis on religion, authority, and nationalism.
+  - Positive values → **Secular values**: Rational outlooks, less emphasis on tradition.
+- **Axis Representation**: On the y-axis of cultural maps.
+
+### **Survival_vs_SelfExpression Index**
+- **Variables**: Q6 (Economic Security), Q7 (Happiness), Q8 (Homosexuality Justifiability), Q9 (Petition Signing), Q10 (Trust in People).
+- **Interpretation**:
+  - Negative values → **Survival values**: Focus on economic and physical security.
+  - Positive values → **Self-expression values**: Emphasis on tolerance, happiness, and personal empowerment.
+- **Axis Representation**: On the x-axis of cultural maps.
+
+---
+
+## Data Processing Workflow
+
+### Step 1: Preprocessing
+- **Clean Data**: Handle missing responses and encode categorical values.
+- **Aggregate Data**: Compute national-level means where applicable.
+
+#### Example (Preprocessed Data)
+
+| **Country** | **Q1** | **Q2** | **Q3** | **Q4** | **Q5** | **Q6** | **Q7** | **Q8** | **Q9** | **Q10** |
+|-------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|
+| Country A   | 8.5    | 1      | 2      | 3.5    | 3      | 1      | 3.8    | 1.2    | 0.2    | 2.5     |
+| Country B   | 3.2    | 0      | 8.5    | 1.5    | 1.8    | 0      | 1.2    | 8.4    | 1.0    | 7.8     |
+
+---
+
+### Step 2: Factor Analysis
+Perform PCA to reduce dimensions:
+- **Traditional_vs_Secular Index**: Eigenvector of Q1-Q5.
+- **Survival_vs_SelfExpression Index**: Eigenvector of Q6-Q10.
+
+#### Example (Factor Scores)
+
+| **Country** | **Traditional_vs_Secular** | **Survival_vs_SelfExpression** |
+|-------------|----------------------------|--------------------------------|
+| Country A   | 0.85                       | -0.75                         |
+| Country B   | -1.25                      | 1.45                          |
+
+---
+
+### Step 3: Normalize Indices
+Standardize scores to z-scores:
+\[
+F'_{ik} = \frac{F_{ik} - \mu_{F_k}}{\sigma_{F_k}}
+\]
+
+---
+
+## Example Cases
+
+| **Case**           | **Traditional_vs_Secular** | **Survival_vs_SelfExpression** | **Description**                                                                 |
+|---------------------|---------------------------|--------------------------------|---------------------------------------------------------------------------------|
+| **Case 1**: High Tradition, Low Survival  | -1.8                          | -0.9                             | Religious, nationalist, and focused on economic security.                       |
+| **Case 2**: Low Tradition, High SelfExp   | 1.5                           | 1.7                              | Secular and progressive, with high self-expression values.                      |
+| **Case 3**: Mixed Values                  | 0.1                           | 0.3                              | Balanced mix of traditional and self-expression characteristics.                |
+| **Case 4**: High Tradition, High SelfExp  | -1.2                          | 1.1                              | Strong tradition, but also high emphasis on personal and cultural self-expression.|
+
+---
+
+This detailed methodology ensures clarity and consistency in deriving the indices and interpreting results.
