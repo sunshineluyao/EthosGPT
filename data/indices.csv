@@ -1,0 +1,117 @@
+,Country,Year,Traditional_vs_Secular,Survival_vs_SelfExpression,Cultural_Region
+0,Albania,82018 Albania (2018),-0.7451,-0.8307,Orthodox Europe
+1,Algeria,122014 Algeria (2014),-0.7798,-0.9247,African-Islamic
+2,Andorra,202018 Andorra (2018),0.5486,2.1823,Catholic Europe
+3,Argentina,322017 Argentina (2017),-0.4009,0.1913,Latin America
+4,Armenia,512021 Armenia (2021),-1.311,-0.71,Orthodox Europe
+5,Australia,362018 Australia (2018),0.5493,2.2627,English-Speaking
+6,Austria,402018 Austria (2018),0.6196,1.94,Catholic Europe
+7,Azerbaijan,312018 Azerbaijan (2018),-0.4055,-0.8403,West & South Asia
+8,Bangladesh,502018 Bangladesh (2018),-1.5034,-0.6875,African-Islamic
+9,Belarus,1122018 Belarus (2018),0.292,-0.3205,Orthodox Europe
+10,Belgium,562009 Belgium (2009),0.1427,1.481,Catholic Europe
+11,Bolivia,682017 Bolivia (2017),-1.2266,-0.3828,Latin America
+12,Bosnia and Herzegovina,702019 Bosnia and Herzegovina (2019),-0.0654,-0.6772,Orthodox Europe
+13,Brazil,762018 Brazil (2018),-0.3078,-0.0973,Latin America
+14,Bulgaria,1002017 Bulgaria (2017),0.6678,-0.538,Orthodox Europe
+15,Burkina Faso,8542007 Burkina Faso (2007),-1.2225,-0.8016,African-Islamic
+16,Canada,1242020 Canada (2020),0.7975,2.0555,English-Speaking
+17,Chile,1522018 Chile (2018),0.2133,-0.1089,Latin America
+18,China,1562018 China (2018),0.5755,-0.1071,Confucian
+19,Colombia,1702018 Colombia (2018),-1.5681,0.2642,Latin America
+20,Croatia,1912017 Croatia (2017),0.0937,0.0821,Protestant Europe
+21,Cyprus,1962019 Cyprus (2019),-0.4121,-0.4995,Catholic Europe
+22,Czechia,2032022 Czechia (2022),1.3322,0.7298,Protestant Europe
+23,Denmark,2082017 Denmark (2017),1.0181,2.8933,Protestant Europe
+24,Dominican Republic,2141996 Dominican Republic (1996),-1.0012,-0.1476,Latin America
+25,Ecuador,2182018 Ecuador (2018),-1.7248,0.0182,Latin America
+26,Egypt,8182018 Egypt (2018),-0.8544,-2.2318,African-Islamic
+27,Estonia,2332018 Estonia (2018),0.8958,0.7035,Protestant Europe
+28,Ethiopia,2312020 Ethiopia (2020),-1.3259,-0.9801,African-Islamic
+29,Finland,2462017 Finland (2017),0.7985,2.446,Protestant Europe
+30,France,2502018 France (2018),0.4644,1.9024,Catholic Europe
+31,Georgia,2682018 Georgia (2018),-1.0179,-0.8171,Orthodox Europe
+32,Germany,2762018 Germany (2018),0.8909,2.1561,Protestant Europe
+33,Germany West,2761981 Germany West (1981),0.9124,0.0614,Protestant Europe
+34,Ghana,2882012 Ghana (2012),-1.8358,-1.0443,African-Islamic
+35,Great Britain,8262022 Great Britain (2022),0.9808,2.2364,English-Speaking
+36,Greece,3002017 Greece (2017),0.2686,-0.2853,Orthodox Europe
+37,Guatemala,3202020 Guatemala (2020),-1.006,0.0042,Latin America
+38,Haiti,3322016 Haiti (2016),-0.8593,0.0686,Latin America
+39,Hong Kong SAR,3442018 Hong Kong SAR (2018),1.4589,-0.0582,Confucian
+40,Hungary,3482018 Hungary (2018),0.5932,0.0235,Protestant Europe
+41,Iceland,3522017 Iceland (2017),0.5042,2.908,Protestant Europe
+42,India,3562012 India (2012),-0.7095,-0.8615,West & South Asia
+43,Indonesia,3602018 Indonesia (2018),-1.2194,-0.8403,West & South Asia
+44,Iran,3642020 Iran (2020),-0.5392,-0.9236,West & South Asia
+45,Iraq,3682018 Iraq (2018),-0.8453,-1.3175,African-Islamic
+46,Ireland,3722008 Ireland (2008),-0.8482,1.1297,Catholic Europe
+47,Israel,3762001 Israel (2001),0.192,0.584,West & South Asia
+48,Italy,3802018 Italy (2018),0.347,0.8011,Catholic Europe
+49,Japan,3922019 Japan (2019),1.6146,1.302,Confucian
+50,Jordan,4002018 Jordan (2018),-1.5785,-1.209,African-Islamic
+51,Kazakhstan,3982018 Kazakhstan (2018),-0.1288,-0.6824,West & South Asia
+52,Kenya,4042021 Kenya (2021),-0.9285,-0.2731,African-Islamic
+53,Kosovo,9152008 Kosovo (2008),-1.1318,-0.4243,Orthodox Europe
+54,Kyrgyzstan,4172020 Kyrgyzstan (2020),-1.3943,-0.5518,West & South Asia
+55,Latvia,4282021 Latvia (2021),0.8398,-0.0484,Protestant Europe
+56,Lebanon,4222018 Lebanon (2018),-0.5352,-1.0751,African-Islamic
+57,Libya,4342022 Libya (2022),-1.7575,-1.1256,African-Islamic
+58,Lithuania,4402018 Lithuania (2018),0.8619,-0.1841,Protestant Europe
+59,Luxembourg,4422008 Luxembourg (2008),0.3274,1.3817,Catholic Europe
+60,Macau SAR,4462019 Macau SAR (2019),1.2713,0.2036,Confucian
+61,Malaysia,4582018 Malaysia (2018),0.0546,-0.3823,West & South Asia
+62,Maldives,4622021 Maldives (2021),-1.378,-0.6482,African-Islamic
+63,Mali,4662007 Mali (2007),-1.3851,-0.114,African-Islamic
+64,Malta,4702008 Malta (2008),-1.2713,0.1761,Catholic Europe
+65,Mexico,4842018 Mexico (2018),-1.0603,0.226,Latin America
+66,Moldova,4982008 Moldova (2008),0.1818,-1.5502,Orthodox Europe
+67,Mongolia,4962020 Mongolia (2020),0.7472,0.147,Confucian
+68,Montenegro,4992019 Montenegro (2019),-0.4359,-0.0171,Orthodox Europe
+69,Morocco,5042021 Morocco (2021),-0.3176,-0.8135,African-Islamic
+70,Myanmar,1042020 Myanmar (2020),-1.0254,-0.9508,West & South Asia
+71,Netherlands,5282022 Netherlands (2022),1.1562,2.3876,Protestant Europe
+72,New Zealand,5542020 New Zealand (2020),0.5317,2.8566,English-Speaking
+73,Nicaragua,5582020 Nicaragua (2020),-1.7126,-0.3604,Latin America
+74,Nigeria,5662018 Nigeria (2018),-1.3736,-1.1028,African-Islamic
+75,North Macedonia,8072019 North Macedonia (2019),0.0872,-0.2686,Orthodox Europe
+76,Northern Ireland,9092022 Northern Ireland (2022),0.1189,1.6764,English-Speaking
+77,Norway,5782018 Norway (2018),0.9265,3.0307,Protestant Europe
+78,Pakistan,5862018 Pakistan (2018),-1.3833,-0.633,African-Islamic
+79,Palestine,2752013 Palestine (2013),-0.9166,-1.3679,African-Islamic
+80,Peru,6042018 Peru (2018),-1.0557,-0.5629,Latin America
+81,Philippines,6082019 Philippines (2019),-1.4145,0.1057,Latin America
+82,Poland,6162017 Poland (2017),-0.431,0.5982,Catholic Europe
+83,Portugal,6202020 Portugal (2020),-0.2696,0.3353,Catholic Europe
+84,Puerto Rico,6302018 Puerto Rico (2018),-1.5551,0.6597,Latin America
+85,Qatar,6342010 Qatar (2010),-2.1667,-0.7143,West & South Asia
+86,Romania,6422018 Romania (2018),-0.3876,-0.8017,Orthodox Europe
+87,Russia,6432017 Russia (2017),0.3895,-0.595,Orthodox Europe
+88,Rwanda,6462012 Rwanda (2012),-1.0995,-0.7069,African-Islamic
+89,Saudi Arabia,6822003 Saudi Arabia (2003),-1.5044,-0.4165,West & South Asia
+90,Serbia,6882018 Serbia (2018),0.3106,-0.577,Orthodox Europe
+91,Singapore,7022020 Singapore (2020),0.0888,-0.1201,Confucian
+92,Slovakia,7032022 Slovakia (2022),0.7261,0.1217,Protestant Europe
+93,Slovenia,7052017 Slovenia (2017),0.7767,1.231,Protestant Europe
+94,South Africa,7102013 South Africa (2013),-0.2706,0.027,West & South Asia
+95,South Korea,4102018 South Korea (2018),1.4536,-0.4708,Confucian
+96,Spain,7242017 Spain (2017),0.5884,1.4319,Catholic Europe
+97,Sweden,7522017 Sweden (2017),1.1067,3.1133,Protestant Europe
+98,Switzerland,7562017 Switzerland (2017),0.6754,2.3516,Protestant Europe
+99,Taiwan ROC,1582019 Taiwan ROC (2019),1.1261,-0.1447,Confucian
+100,Tajikistan,7622020 Tajikistan (2020),-1.368,-0.6182,West & South Asia
+101,Tanzania,8342001 Tanzania (2001),-1.8021,-0.6821,African-Islamic
+102,Thailand,7642018 Thailand (2018),0.2545,0.0658,West & South Asia
+103,Trinidad and Tobago,7802010 Trinidad and Tobago (2010),-1.7556,-0.3584,African-Islamic
+104,Tunisia,7882019 Tunisia (2019),-0.5962,-1.4324,African-Islamic
+105,Turkey,7922018 Turkey (2018),-0.4563,-0.7041,African-Islamic
+106,Uganda,8002001 Uganda (2001),-1.2236,-0.9602,African-Islamic
+107,Ukraine,8042020 Ukraine (2020),0.4312,-0.493,Orthodox Europe
+108,United States,8402017 United States (2017),0.1444,1.4034,English-Speaking
+109,Uruguay,8582022 Uruguay (2022),-0.3293,1.3611,Latin America
+110,Uzbekistan,8602011 Uzbekistan (2011),-1.323,-0.5776,West & South Asia
+111,Venezuela,8622021 Venezuela (2021),-1.0603,-0.2503,Latin America
+112,Vietnam,7042020 Vietnam (2020),-0.4429,0.6128,Confucian
+113,Yemen,8872014 Yemen (2014),-1.3641,-1.2543,African-Islamic
+114,Zambia,8942007 Zambia (2007),-0.5099,-0.9148,West & South Asia
+115,Zimbabwe,7162020 Zimbabwe (2020),-0.585,-1.8709,African-Islamic
