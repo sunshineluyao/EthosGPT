@@ -1,3 +1,4 @@
+## The Range of the Indices
 ### **Step 1: Calculate Standardized Ranges for Variables**
 For all variables, assuming a uniform distribution:
 
@@ -68,6 +69,47 @@ Using the formula:
 | **Survival vs. Self-Expression Values** | -4.746    | 4.746     |
 
 ---
+
+
+
+### Original Answers for Sweden:
+
+| **Variable**                | **Answer** | **Range**         |
+|-----------------------------|------------|-------------------|
+| **F063**: Importance of God | 2.0        | 1–10              |
+| **Y003**: Autonomy Index    | 1.8        | -2 to 2           |
+| **F120**: Abortion          | 8.0        | 1–10              |
+| **G006**: National Pride    | 1.5        | 1–4               |
+| **E018**: Respect Authority | 3.0        | 1–3               |
+| **A008**: Happiness         | 1.5        | 1–4               |
+| **Y002**: Post-Materialist  | 1.8        | -2 to 2           |
+| **F118**: Homosexuality     | 10.0       | 1–10              |
+| **E025**: Petition Signing  | 3.0        | 1–3               |
+| **A165**: Trust on People   | 1.9        | 1–2               |
+
+---
+## An Example
+### Explanation of Adjustments:
+1. **Traditional vs. Secular Values**:
+   - **Importance of God (F063)**: Low value (2.0) reflects secular values.
+   - **Autonomy Index (Y003)**: High value (1.8) aligns with self-expression and secularism.
+   - **Abortion (F120)**: High value (8.0) reflects acceptance, aligned with secularism.
+   - **National Pride (G006)**: Low value (1.5) indicates less traditional nationalism.
+   - **Respect for Authority (E018)**: High value (3.0) aligns with secularism.
+
+2. **Survival vs. Self-Expression Values**:
+   - **Happiness (A008)**: Low value (1.5) reflects survival orientation.
+   - **Post-Materialist (Y002)**: High value (1.8) reflects self-expression.
+   - **Homosexuality (F118)**: High value (10.0) reflects acceptance.
+   - **Petition Signing (E025)**: High value (3.0) reflects self-expression.
+   - **Trust on People (A165)**: High value (1.9) reflects social trust.
+
+---
+
+### Calculated Indices for Sweden (Approximation):
+- **Traditional vs. Secular Values**: \(-0.6754\)
+- **Survival vs. Self-Expression Values**: \(-2.3516\)
+
 
 ### **Interpretation**
 1. The **Traditional Index** ranges from -5.246 (highly traditional) to 5.246 (highly secular).
