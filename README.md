@@ -42,6 +42,35 @@ EthosGPT builds on foundational studies such as CVALUES and CultureLLM to ensure
 ### 🗺️ **Multidimensional Mapping**
 Leverage advanced visualizations to explore LLM alignment across diverse cultural and ethical dimensions.
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="demo1.png" alt="Demo 1" width="300">
+        <br>
+        <strong>Visualization 1</strong>
+      </td>
+      <td align="center">
+        <img src="demo2.png" alt="Demo 2" width="300">
+        <br>
+        <strong>Visualization 2</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="demo3.png" alt="Demo 3" width="300">
+        <br>
+        <strong>Visualization 3</strong>
+      </td>
+      <td align="center">
+        <img src="demo4.png" alt="Demo 4" width="300">
+        <br>
+        <strong>Visualization 4</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 🔍 **Prompt-Based Evaluation**
 
 Analyze LLM responses using a structured prompt-based methodology, ensuring robust evaluation across scenarios.
@@ -63,7 +92,7 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
 3. **Visualize Results**  
    Generate intuitive visualizations that map LLM performance, highlighting strengths and potential biases.
 
-
+---
 
 ## References
 
@@ -72,5 +101,4 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
 - Kharchenko, J., Roosta, T., Chadha, A., & Shah, C. (2024). How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions. [arXiv:2406.14805v1](https://arxiv.org/abs/2406.14805).
 - Tao, Y., Viberg, O., Baker, R. S., & Kizilcec, R. F. (2024). Cultural Bias and Cultural Alignment of Large Language Models. *PNAS Nexus*, 3, pgae346. [DOI:10.1093/pnasnexus/pgae346](https://doi.org/10.1093/pnasnexus/pgae346).
 - Durante, Z., Huang, Q., Wake, N., et al. (2024). Agent AI: Surveying the Horizons of Multimodal Interaction. [arXiv:2401.03568v2](https://arxiv.org/abs/2401.03568).
-- Frisch, I., Giulianelli, M. (2024). LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models. [arXiv:2402.02896v1](https://arxiv.org/abs/2402.02896).
-
+- Frisch, I., Giulianelli, M. (2024). LLM Agents in Interaction: Measuring Personality Consi
