@@ -42,34 +42,6 @@ EthosGPT builds on foundational studies such as CVALUES and CultureLLM to ensure
 ### 🗺️ **Multidimensional Mapping**
 Leverage advanced visualizations to explore LLM alignment across diverse cultural and ethical dimensions.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="demo1.png" alt="Demo 1" width="300">
-        <br>
-        <strong>Visualization 1</strong>
-      </td>
-      <td align="center">
-        <img src="demo2.png" alt="Demo 2" width="300">
-        <br>
-        <strong>Visualization 2</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="demo3.png" alt="Demo 3" width="300">
-        <br>
-        <strong>Visualization 3</strong>
-      </td>
-      <td align="center">
-        <img src="demo4.png" alt="Demo 4" width="300">
-        <br>
-        <strong>Visualization 4</strong>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### 🔍 **Prompt-Based Evaluation**
 
@@ -78,6 +50,35 @@ Analyze LLM responses using a structured prompt-based methodology, ensuring robu
 ### 📊 **Interactive Data Tools**
 
 Empower users with tools that break disciplinary boundaries, fostering cross-domain research and insights.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="demo1.png" alt="Demo 1" width="300">
+        <br>
+        <strong>Dash Interactive App Demo 1</strong>
+      </td>
+      <td align="center">
+        <img src="demo2.png" alt="Demo 2" width="300">
+        <br>
+        <strong>Dash Interactive App Demo 2</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="demo3.png" alt="Demo 3" width="300">
+        <br>
+        <strong>Dash Interactive App Demo 3</strong>
+      </td>
+      <td align="center">
+        <img src="demo4.png" alt="Demo 4" width="300">
+        <br>
+        <strong>Dash Interactive App Demo 4</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
