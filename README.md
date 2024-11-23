@@ -5,42 +5,47 @@
 ---
 ## Project Overview
 
+
 <div align="center">
   <h2>🌍 Background and Motivation</h2>
 </div>
 
 <div>
-  <!-- Introductory Section -->
+  <!-- What is EthosGPT -->
   <h3>🔎 What is EthosGPT?</h3>
   <p>
-    Large language models (LLMs) are transforming global decision-making and societal systems. Their ability to process diverse data and align with human values is both a <b>remarkable strength</b> and a <b>critical risk</b>. 
-    While LLMs excel at navigating <em>cultural, economic, and political differences</em>, they also risk homogenizing values—a process akin to the loss of biodiversity threatening ecological resilience.
+    Large language models (LLMs) are transforming global decision-making and societal systems. Their ability to process diverse data and align with human values is both a <b>remarkable strength</b> and a <b>critical risk</b>.  
+    While LLMs excel at navigating <i>cultural, economic, and political differences</i>, they also risk homogenizing values—a process akin to the loss of biodiversity threatening ecological resilience.
   </p>
 </div>
 
 <div>
-  <!-- Why Values Matter Section -->
+  <!-- Why Value Diversity Matters -->
   <h3>🌟 Why Value Diversity Matters</h3>
+  <blockquote>
+    <p>
+      <b>“Diversity is the foundation of innovation, adaptability, and resilience.”</b><br>
+      – <a href="https://www.unesco.org/en/cultural-diversity" target="_blank">UNESCO</a>
+    </p>
+  </blockquote>
   <p>
-    <q><b>“Diversity is the foundation of innovation, adaptability, and resilience.”</b></q> – <a href="https://www.unesco.org/en/cultural-diversity">UNESCO</a>.<br>
     Just as ecosystems thrive on biodiversity, societies prosper through the rich interplay of varied human value systems. Without this diversity:
   </p>
   <ul>
-    <li>🛑 <b>Risks</b>: Homogenization could lead to ethical oversights and stagnation in AI-driven decision-making.</li>
-    <li>💡 <b>Opportunities</b>: Preserving cultural values ensures sustainable progress, fostering ethical and inclusive AI innovation.</li>
+    <li>🛑 <b>Risks:</b> Homogenization could lead to ethical oversights and stagnation in AI-driven decision-making.</li>
+    <li>💡 <b>Opportunities:</b> Preserving cultural values ensures sustainable progress, fostering ethical and inclusive AI innovation.</li>
   </ul>
 </div>
 
 <div>
-  <!-- Vision Section -->
+  <!-- Vision of EthosGPT -->
   <h3>✨ The Vision of EthosGPT</h3>
   <p>
-    EthosGPT introduces an <b>open-source framework</b> designed to <b>map and visualize LLMs’ positioning</b> within a multidimensional landscape of human values. 
-    Using <i>prompt-based evaluation</i>, EthosGPT examines how effectively AI systems navigate complex global differences in human values.
+    EthosGPT introduces an <b>open-source framework</b> designed to <b>map and visualize LLMs’ positioning</b> within a multidimensional landscape of human values. Using <i>prompt-based evaluation</i>, EthosGPT examines how effectively AI systems navigate complex global differences in human values.
   </p>
   <ul>
-    <li>📈 <b>Strengths</b>: Insights into LLMs’ cultural adaptability.</li>
-    <li>🔍 <b>Limitations</b>: Identification of ethical dilemmas where LLMs struggle with nuanced, context-specific scenarios.</li>
+    <li>📈 <b>Strengths:</b> Insights into LLMs’ cultural adaptability.</li>
+    <li>🔍 <b>Limitations:</b> Identification of ethical dilemmas where LLMs struggle with nuanced, context-specific scenarios.</li>
   </ul>
   <p>
     EthosGPT bridges disciplines by offering <b>open-source data, code, and interactive tools</b>, inviting global audiences to enhance and engage with its findings.
@@ -48,13 +53,14 @@
 </div>
 
 <div>
-  <!-- Commitment Section -->
+  <!-- Commitment to Diversity -->
   <h3>🌐 Our Commitment to Diversity and Inclusion</h3>
   <p>
     At EthosGPT, we are dedicated to including as many human cultural heritages as possible in our open-source framework. Our goal is to support the 
     <b>sustainable development of humanity</b>, ensuring AI systems are <b>inclusive, representative, and ethically aligned</b>.
   </p>
 </div>
+
 
 ---
 
