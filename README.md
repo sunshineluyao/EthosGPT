@@ -246,49 +246,49 @@
   <table>
     <thead>
       <tr>
-        <th>Visualization</th>
-        <th>Description</th>
-        <th>Learning Opportunities</th>
-        <th>Webpage</th>
-        <th>Source Code</th>
+        <th>🖼️ Visualization</th>
+        <th>📋 Description</th>
+        <th>📘 Learning Opportunities</th>
+        <th>🌐 Webpage</th>
+        <th>💻 Source Code</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong>Cultural Values Comparison: Survey vs ChatGPT</strong></td>
+        <td><strong>🌍 Cultural Values Comparison: Survey vs ChatGPT</strong></td>
         <td>Compare cultural value indices derived from human survey data with ChatGPT-generated responses.</td>
         <td>
           <ul>
-            <li>Examine ChatGPT's alignment with cultural dimensions like individualism and power distance.</li>
-            <li>Identify biases in AI outputs compared to human data.</li>
+            <li>🔎 Examine ChatGPT's alignment with cultural dimensions like individualism and power distance.</li>
+            <li>⚖️ Identify biases in AI outputs compared to human data.</li>
           </ul>
         </td>
-        <td><a href="https://cultural-indices-dashboard.onrender.com/" target="_blank">Open App</a></td>
-        <td><a href="https://github.com/sunshineluyao/cultural-indices-dashboard" target="_blank">GitHub Repo</a></td>
+        <td><a href="https://cultural-indices-dashboard.onrender.com/" target="_blank">🌐 Open App</a></td>
+        <td><a href="https://github.com/sunshineluyao/cultural-indices-dashboard" target="_blank">💻 GitHub Repo</a></td>
       </tr>
       <tr>
-        <td><strong>Mean Square Error (MSE) Analysis by Region</strong></td>
+        <td><strong>📊 Mean Square Error (MSE) Analysis by Region</strong></td>
         <td>Analyze the accuracy of ChatGPT’s cultural value predictions using MSE metrics.</td>
         <td>
           <ul>
-            <li>Assess regional accuracy and identify areas for improvement.</li>
-            <li>Compare ChatGPT's cultural representations across regions.</li>
+            <li>📈 Assess regional accuracy and identify areas for improvement.</li>
+            <li>🌍 Compare ChatGPT's cultural representations across regions.</li>
           </ul>
         </td>
-        <td><a href="https://culture-indices-mse.onrender.com/" target="_blank">Open App</a></td>
-        <td><a href="https://github.com/sunshineluyao/culture-indices-mse" target="_blank">GitHub Repo</a></td>
+        <td><a href="https://culture-indices-mse.onrender.com/" target="_blank">🌐 Open App</a></td>
+        <td><a href="https://github.com/sunshineluyao/culture-indices-mse" target="_blank">💻 GitHub Repo</a></td>
       </tr>
       <tr>
-        <td><strong>Cultural Values Map</strong></td>
+        <td><strong>🗺️ Cultural Values Map</strong></td>
         <td>Explore cultural value indices on an interactive global map.</td>
         <td>
           <ul>
-            <li>Gain a visual understanding of global cultural indices.</li>
-            <li>Compare ChatGPT's outputs with survey data across nations.</li>
+            <li>🗺️ Gain a visual understanding of global cultural indices.</li>
+            <li>🔍 Compare ChatGPT's outputs with survey data across nations.</li>
           </ul>
         </td>
-        <td><a href="https://culture-indices-map.onrender.com/" target="_blank">Open App</a></td>
-        <td><a href="https://github.com/sunshineluyao/culture-indices-map" target="_blank">GitHub Repo</a></td>
+        <td><a href="https://culture-indices-map.onrender.com/" target="_blank">🌐 Open App</a></td>
+        <td><a href="https://github.com/sunshineluyao/culture-indices-map" target="_blank">💻 GitHub Repo</a></td>
       </tr>
     </tbody>
   </table>
