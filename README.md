@@ -362,22 +362,6 @@
   </table>
 </div>
 
----
-
-## **How It Works**
-
-1. **Prompt Input**  
-   Carefully crafted prompts probe LLM responses across cultural and ethical contexts.
-
-2. **Response Evaluation**  
-   Alignment is measured using frameworks like Hofstede’s cultural dimensions.
-
-3. **Visualization**  
-   Results are displayed through intuitive visualizations to highlight strengths and biases.
-
----
-
-Here’s the improved **Why EthosGPT?** section with a more visually engaging layout, using HTML subtables and quotes for better readability and user engagement:
 
 ---
 
@@ -453,11 +437,23 @@ Here’s the improved **Why EthosGPT?** section with a more visually engaging la
 
 
 
+## **How It Works**
+
+1. **Prompt Input**  
+   Carefully crafted prompts probe LLM responses across cultural and ethical contexts.
+
+2. **Response Evaluation**  
+   Alignment is measured using frameworks like Hofstede’s cultural dimensions.
+
+3. **Visualization**  
+   Results are displayed through intuitive visualizations to highlight strengths and biases.
+
 ---
 
 ## References
 
-- Xu, G., Liu, J., Yan, M., et al. (2023). CVALUES: Measuring the Values of Chinese Large Language Models from Safety to Responsibility. [arXiv:2307.09705v1](https://arxiv.org/abs/2307.09705).
-- Li, C., Chen, M., Wang, J., et al. (2024). CultureLLM: Incorporating Cultural Differences into Large Language Models. [arXiv:2402.10946v2](https://arxiv.org/abs/2402.10946).
-- Kharchenko, J., Roosta, T., Chadha, A., & Shah, C. (2024). How Well Do LLMs Represent Values Across Cultures? [arXiv:2406.14805v1](https://arxiv.org/abs/2406.14805).
-- Tao, Y., Viberg, O., Baker, R. S., & Kizilcec, R. F. (2024). Cultural Bias and Cultural Alignment of Large Language Models. [DOI:10.1093/pnasnexus/pgae346](https://doi.org/10.1093/pnasnexus/pgae346).
+1. Xu, G., Liu, J., Yan, M., et al. (2023). CVALUES: Measuring the Values of Chinese Large Language Models from Safety to Responsibility. Available at: [arXiv:2307.09705v1](https://arxiv.org/abs/2307.09705).  
+2. Li, C., Chen, M., Wang, J., et al. (2024). CultureLLM: Incorporating Cultural Differences into Large Language Models. Available at: [arXiv:2402.10946v2](https://arxiv.org/abs/2402.10946).  
+3. Kharchenko, J., Roosta, T., Chadha, A., & Shah, C. (2024). How Well Do LLMs Represent Values Across Cultures? Available at: [arXiv:2406.14805v1](https://arxiv.org/abs/2406.14805).  
+4. Tao, Y., Viberg, O., Baker, R. S., & Kizilcec, R. F. (2024). Cultural Bias and Cultural Alignment of Large Language Models. DOI: [10.1093/pnasnexus/pgae346](https://doi.org/10.1093/pnasnexus/pgae346).
+
