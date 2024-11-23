@@ -2,27 +2,13 @@
 
 ![EthosGPT](EthosGPT.webp)
 
-## **Project Overview**
-
-In a world increasingly shaped by Large Language Models (LLMs), the need for these systems to align with diverse human values has never been greater. **EthosGPT** is an open-source framework designed to map and evaluate LLMs’ positioning across a multidimensional spectrum of human values, fostering cultural inclusivity and ethical adaptability.
-<h2>🌍 Cultural Regions and Flags</h2>
-
----
-Here's the complete updated `README.md`, embedding the zoomed-out country flags after the **Project Overview** section and ensuring it is concise yet comprehensive.
-
----
-
-# **EthosGPT: Charting the Human Values Landscape on a Global Scale**
-
-![EthosGPT](EthosGPT.webp)
-
 ---
 
 ## **Project Overview**
 
 In a world increasingly shaped by Large Language Models (LLMs), the need for these systems to align with diverse human values has never been greater. **EthosGPT** is an open-source framework designed to map and evaluate LLMs’ positioning across a multidimensional spectrum of human values, fostering cultural inclusivity and ethical adaptability.
 
-Below is a **zoomed-out view** of flags from the 107 countries grouped by cultural regions. This representation highlights the diversity of nations covered in EthosGPT.
+Below is a sketch of flags from the 107 countries grouped by 8 cultural regions. This representation highlights the diversity of nations covered in EthosGPT.
 
 <div align="center">
   <table>
