@@ -309,17 +309,81 @@
 
 ---
 
+Here’s the improved **Why EthosGPT?** section with a more visually engaging layout, using HTML subtables and quotes for better readability and user engagement:
+
+---
+
 ## **Why EthosGPT?**
 
 ### 🌍 **Preserving Cultural Diversity**
-- LLMs often risk reflecting dominant cultural biases, diminishing diversity.
-- EthosGPT ensures inclusivity by highlighting cultural variances.
 
-### ⚖️ **Ethical AI Alignment**
-- Provides insights for developing socially and ethically aligned AI.
+<div>
+  <blockquote>
+    <p>
+      LLMs often risk homogenizing values, reflecting dominant cultural biases and marginalizing underrepresented perspectives.
+    </p>
+  </blockquote>
+  <table>
+    <tr>
+      <td>🌟</td>
+      <td><b>Highlight Diversity:</b> EthosGPT emphasizes the preservation of <b>cultural diversity</b>, enabling AI systems to adapt to and celebrate the rich tapestry of global values.</td>
+    </tr>
+    <tr>
+      <td>🔓</td>
+      <td><b>Open-Source Contribution:</b> By offering an <b>open-source framework</b>, EthosGPT invites global contributions to ensure cultural inclusivity and representation.</td>
+    </tr>
+  </table>
+</div>
 
-### 🔍 **Research-Driven Framework**
-- Built on foundational studies like CVALUES and CultureLLM for robust cultural analysis.
+---
+
+### ⚖️ **Advancing Ethical AI Alignment**
+
+<div>
+  <blockquote>
+    <p>
+      Provides actionable insights for developing AI systems that are socially and ethically aligned, ensuring context-aware decision-making.
+    </p>
+  </blockquote>
+  <table>
+    <tr>
+      <td>✅</td>
+      <td><b>Context-Aware Decision-Making:</b> Addresses nuanced ethical dilemmas faced by AI in diverse cultural contexts.</td>
+    </tr>
+    <tr>
+      <td>📊</td>
+      <td><b>Bias Mitigation:</b> Leverages <b>interactive tools and visualizations</b> to identify and reduce biases in AI systems.</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🔓 **Open-Source and Research-Driven**
+
+<div>
+  <blockquote>
+    <p>
+      Built on a research-backed foundation, EthosGPT combines open-source tools and rigorous cultural analysis to drive innovation and inclusivity.
+    </p>
+  </blockquote>
+  <table>
+    <tr>
+      <td>📚</td>
+      <td><b>Research-Backed:</b> Studies like <a href="https://arxiv.org/abs/2307.09705v1" target="_blank">CVALUES</a> and <a href="https://arxiv.org/abs/2402.10946v2" target="_blank">CultureLLM</a> provide robust foundations for culturally sensitive AI analysis.</td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><b>Collaboration:</b> EthosGPT offers <b>open-source data, code, and tools</b>, empowering researchers, developers, and policymakers worldwide.</td>
+    </tr>
+    <tr>
+      <td>🔍</td>
+      <td><b>Cross-Disciplinary Exploration:</b> Breaks traditional boundaries between AI, ethics, and cultural studies for innovative solutions.</td>
+    </tr>
+  </table>
+</div>
+
+
 
 ---
 
