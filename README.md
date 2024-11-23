@@ -3,6 +3,20 @@
 ![EthosGPT](EthosGPT.webp)
 
 ---
+
+<div align="center" style="margin: 20px 0;">
+  <h2>📚 Table of Contents</h2>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin: 10px 0;"><a href="#project-overview" style="text-decoration: none; font-weight: bold;">📖 Project Overview</a></li>
+    <li style="margin: 10px 0;"><a href="#global-representation-of-diversity" style="text-decoration: none; font-weight: bold;">🌍 Global Representation of Diversity</a></li>
+    <li style="margin: 10px 0;"><a href="#key-features-and-core-components" style="text-decoration: none; font-weight: bold;">✨ Key Features and Core Components</a></li>
+    <li style="margin: 10px 0;"><a href="#interactive-data-tools" style="text-decoration: none; font-weight: bold;">📊 Interactive Data Tools</a></li>
+    <li style="margin: 10px 0;"><a href="#why-ethosgpt" style="text-decoration: none; font-weight: bold;">🌟 Why EthosGPT?</a></li>
+    <li style="margin: 10px 0;"><a href="#how-it-works" style="text-decoration: none; font-weight: bold;">🔍 How It Works</a></li>
+    <li style="margin: 10px 0;"><a href="#references" style="text-decoration: none; font-weight: bold;">📚 References</a></li>
+  </ul>
+</div>
+---
 ## Project Overview
 
 
