@@ -210,33 +210,42 @@
 - Explore cultural diversity, alignment metrics, and biases via open-source visualizations.
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="demo2.png" alt="Demo 1" width="400">
+  <table style="border-collapse: collapse; width: 80%; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #ddd;">
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td align="center" style="padding: 20px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+          <img src="demo2.png" alt="Demo 1" width="400" style="display: block; margin: 0;">
+        </div>
         <br>
         <strong>Interactive Visualization Demo 1</strong>
       </td>
-      <td align="center">
-        <img src="demo1.png" alt="Demo 2.1" width="400">
+      <td align="center" style="padding: 20px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+          <img src="demo1.png" alt="Demo 2.1" width="400" style="display: block; margin: 0;">
+        </div>
         <br>
         <strong>Interactive Visualization Demo 2.1</strong>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="demo4.png" alt="Demo 2.2" width="400">
+      <td align="center" style="padding: 20px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+          <img src="demo4.png" alt="Demo 2.2" width="400" style="display: block; margin: 0;">
+        </div>
         <br>
         <strong>Interactive Visualization Demo 2.2</strong>
       </td>
-      <td align="center">
-        <img src="demo3.png" alt="Demo 3" width="400">
+      <td align="center" style="padding: 20px;">
+        <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+          <img src="demo3.png" alt="Demo 3" width="400" style="display: block; margin: 0;">
+        </div>
         <br>
         <strong>Interactive Visualization Demo 3</strong>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
