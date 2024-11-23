@@ -55,26 +55,26 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
   <table>
     <tr>
       <td align="center">
-        <img src="demo1.png" alt="Demo 1" width="400">
+        <img src="demo2.png" alt="Demo 1" width="400">
         <br>
         <strong>Dash Interactive App Demo 1</strong>
       </td>
       <td align="center">
-        <img src="demo2.png" alt="Demo 2" width="400">
+        <img src="demo1.png" alt="Demo 2.1" width="400">
         <br>
-        <strong>Dash Interactive App Demo 2</strong>
+        <strong>Dash Interactive App Demo 2.1</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
+        <img src="demo4.png" alt="Demo 2.2" width="400">
+        <br>
+        <strong>Dash Interactive App Demo 2.2</strong>
+      </td>
+      <td align="center">
         <img src="demo3.png" alt="Demo 3" width="400">
         <br>
         <strong>Dash Interactive App Demo 3</strong>
-      </td>
-      <td align="center">
-        <img src="demo4.png" alt="Demo 4" width="400">
-        <br>
-        <strong>Dash Interactive App Demo 4</strong>
       </td>
     </tr>
   </table>
