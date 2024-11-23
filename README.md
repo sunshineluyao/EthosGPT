@@ -452,7 +452,9 @@
 
 ## References
 
-## References
+[1]: https://arxiv.org/abs/2307.09705v1 "Xu, G., Liu, J., Yan, M., et al. (2023). CVALUES: Measuring the Values of Chinese Large Language Models from Safety to Responsibility."
+[2]: https://arxiv.org/abs/2402.10946v2 "Li, C., Chen, M., Wang, J., et al. (2024). CultureLLM: Incorporating Cultural Differences into Large Language Models."
+
 
 1. Xu, G., Liu, J., Yan, M., et al. (2023). CVALUES: Measuring the Values of Chinese Large Language Models from Safety to Responsibility. [arXiv:2307.09705v1](https://arxiv.org/abs/2307.09705).
 2. Li, C., Chen, M., Wang, J., et al. (2024). CultureLLM: Incorporating Cultural Differences into Large Language Models. [arXiv:2402.10946v2](https://arxiv.org/abs/2402.10946).
