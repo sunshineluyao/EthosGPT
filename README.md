@@ -81,6 +81,54 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
 </div>
 
 ---
+### 📊 **Interactive Data Tools**
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Visualization</th>
+        <th>Description</th>
+        <th>How These Tools Help You Learn</th>
+        <th>Webpage</th>
+        <th>Source Code</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Cultural Values Comparison: Survey vs ChatGPT</strong></td>
+        <td>Compare cultural value indices derived from human survey data with ChatGPT-generated responses, highlighting similarities and discrepancies across cultural dimensions.</td>
+        <td>
+          - Examine how ChatGPT aligns with human-surveyed cultural dimensions like individualism and power distance.  
+          - Spot biases or deviations in AI outputs versus human-derived indices.
+        </td>
+        <td><a href="https://cultural-indices-dashboard.onrender.com/" target="_blank">Open App</a></td>
+        <td><a href="https://github.com/sunshineluyao/cultural-indices-dashboard" target="_blank">GitHub Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>Mean Square Error (MSE) Analysis by Cultural Region</strong></td>
+        <td>Analyze the accuracy of ChatGPT's cultural values predictions across regions by comparing Mean Square Error (MSE) metrics, providing insight into areas for improvement.</td>
+        <td>
+          - Assess the accuracy of ChatGPT’s responses for different regions through MSE metrics.  
+          - Highlight regions where ChatGPT’s cultural representations need improvement.
+        </td>
+        <td><a href="https://culture-indices-mse.onrender.com/" target="_blank">Open App</a></td>
+        <td><a href="https://github.com/sunshineluyao/culture-indices-mse" target="_blank">GitHub Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>Cultural Values Map</strong></td>
+        <td>Visualize cultural value indices on an interactive map, enabling global comparisons between survey data and ChatGPT outputs.</td>
+        <td>
+          - Gain a visual understanding of global cultural indices through a map.  
+          - Compare and contrast ChatGPT’s outputs with survey data across regions and nations.
+        </td>
+        <td><a href="https://culture-indices-map.onrender.com/" target="_blank">Open App</a></td>
+        <td><a href="https://github.com/sunshineluyao/culture-indices-map" target="_blank">GitHub Repo</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+---
 
 ## **How It Works**
 
