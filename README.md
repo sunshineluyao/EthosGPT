@@ -57,24 +57,24 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
       <td align="center">
         <img src="demo2.png" alt="Demo 1" width="400">
         <br>
-        <strong>Dash Interactive App Demo 1</strong>
+        <strong>Interactive Visualization in Dash App Demo 1</strong>
       </td>
       <td align="center">
         <img src="demo1.png" alt="Demo 2.1" width="400">
         <br>
-        <strong>Dash Interactive App Demo 2.1</strong>
+        <strong>Interactive Visualization in Dash AppDemo 2.1</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="demo4.png" alt="Demo 2.2" width="400">
         <br>
-        <strong>Dash Interactive App Demo 2.2</strong>
+        <strong>Interactive Visualization in Dash App Demo 2.2</strong>
       </td>
       <td align="center">
         <img src="demo3.png" alt="Demo 3" width="400">
         <br>
-        <strong>Dash Interactive App Demo 3</strong>
+        <strong>Interactive Visualization in Dash App Demo 3</strong>
       </td>
     </tr>
   </table>
@@ -87,7 +87,7 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
   <table>
     <thead>
       <tr>
-        <th>Visualization</th>
+        <th>Interactive Visualization in Dash App</th>
         <th>Description</th>
         <th>How These Tools Help You Learn</th>
         <th>Webpage</th>
@@ -96,7 +96,7 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
     </thead>
     <tbody>
       <tr>
-        <td><strong>Cultural Values Comparison: Survey vs ChatGPT</strong></td>
+        <td><strong>Demo 1: Cultural Values Comparison: Survey vs ChatGPT</strong></td>
         <td>Compare cultural value indices derived from human survey data with ChatGPT-generated responses, highlighting similarities and discrepancies across cultural dimensions.</td>
         <td>
           - Examine how ChatGPT aligns with human-surveyed cultural dimensions like individualism and power distance.  
@@ -106,7 +106,7 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
         <td><a href="https://github.com/sunshineluyao/cultural-indices-dashboard" target="_blank">GitHub Repo</a></td>
       </tr>
       <tr>
-        <td><strong>Mean Square Error (MSE) Analysis by Cultural Region</strong></td>
+        <td><strong>Demo 2: Mean Square Error (MSE) Analysis by Cultural Region</strong></td>
         <td>Analyze the accuracy of ChatGPT's cultural values predictions across regions by comparing Mean Square Error (MSE) metrics, providing insight into areas for improvement.</td>
         <td>
           - Assess the accuracy of ChatGPT’s responses for different regions through MSE metrics.  
@@ -116,7 +116,7 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
         <td><a href="https://github.com/sunshineluyao/culture-indices-mse" target="_blank">GitHub Repo</a></td>
       </tr>
       <tr>
-        <td><strong>Cultural Values Map</strong></td>
+        <td><strong>Demo 3: Cultural Values Map</strong></td>
         <td>Visualize cultural value indices on an interactive map, enabling global comparisons between survey data and ChatGPT outputs.</td>
         <td>
           - Gain a visual understanding of global cultural indices through a map.  
