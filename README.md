@@ -8,7 +8,7 @@ In a world increasingly shaped by Large Language Models (LLMs), the need for the
 
 ---
 
-## **Features and Core Components**
+## **Key Features and Core Components**
 
 ### 🗺️ **Multidimensional Value Mapping**
 - Visualize LLM performance across cultural and ethical dimensions.
