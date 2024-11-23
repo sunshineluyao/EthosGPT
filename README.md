@@ -7,67 +7,119 @@
 In a world increasingly shaped by Large Language Models (LLMs), the need for these systems to align with diverse human values has never been greater. **EthosGPT** is an open-source framework designed to map and evaluate LLMs’ positioning across a multidimensional spectrum of human values, fostering cultural inclusivity and ethical adaptability.
 <h2>🌍 Cultural Regions and Flags</h2>
 
-<!-- African-Islamic Region -->
-<h3>African-Islamic</h3>
-<table>
-  <tr>
-    <td><img src="https://flagcdn.com/w40/dz.png" alt="Algeria" title="Algeria" style="border-radius: 50%; width: 40px;"><br>Algeria</td>
-    <td><img src="https://flagcdn.com/w40/eg.png" alt="Egypt" title="Egypt" style="border-radius: 50%; width: 40px;"><br>Egypt</td>
-    <td><img src="https://flagcdn.com/w40/jo.png" alt="Jordan" title="Jordan" style="border-radius: 50%; width: 40px;"><br>Jordan</td>
-    <td><img src="https://flagcdn.com/w40/ly.png" alt="Libya" title="Libya" style="border-radius: 50%; width: 40px;"><br>Libya</td>
-    <td><img src="https://flagcdn.com/w40/ma.png" alt="Morocco" title="Morocco" style="border-radius: 50%; width: 40px;"><br>Morocco</td>
-  </tr>
-  <tr>
-    <td><img src="https://flagcdn.com/w40/tn.png" alt="Tunisia" title="Tunisia" style="border-radius: 50%; width: 40px;"><br>Tunisia</td>
-    <td><img src="https://flagcdn.com/w40/ye.png" alt="Yemen" title="Yemen" style="border-radius: 50%; width: 40px;"><br>Yemen</td>
-    <td><img src="https://flagcdn.com/w40/iq.png" alt="Iraq" title="Iraq" style="border-radius: 50%; width: 40px;"><br>Iraq</td>
-    <td><img src="https://flagcdn.com/w40/ng.png" alt="Nigeria" title="Nigeria" style="border-radius: 50%; width: 40px;"><br>Nigeria</td>
-    <td><img src="https://flagcdn.com/w40/ug.png" alt="Uganda" title="Uganda" style="border-radius: 50%; width: 40px;"><br>Uganda</td>
-  </tr>
-  <!-- Add more flags as needed -->
-</table>
-
-<!-- Confucian Region -->
-<h3>Confucian</h3>
-<table>
-  <tr>
-    <td><img src="https://flagcdn.com/w40/cn.png" alt="China" title="China" style="border-radius: 50%; width: 40px;"><br>China</td>
-    <td><img src="https://flagcdn.com/w40/hk.png" alt="Hong Kong SAR" title="Hong Kong SAR" style="border-radius: 50%; width: 40px;"><br>Hong Kong SAR</td>
-    <td><img src="https://flagcdn.com/w40/jp.png" alt="Japan" title="Japan" style="border-radius: 50%; width: 40px;"><br>Japan</td>
-    <td><img src="https://flagcdn.com/w40/kr.png" alt="South Korea" title="South Korea" style="border-radius: 50%; width: 40px;"><br>South Korea</td>
-    <td><img src="https://flagcdn.com/w40/tw.png" alt="Taiwan ROC" title="Taiwan ROC" style="border-radius: 50%; width: 40px;"><br>Taiwan ROC</td>
-  </tr>
-  <tr>
-    <td><img src="https://flagcdn.com/w40/sg.png" alt="Singapore" title="Singapore" style="border-radius: 50%; width: 40px;"><br>Singapore</td>
-    <td><img src="https://flagcdn.com/w40/vn.png" alt="Vietnam" title="Vietnam" style="border-radius: 50%; width: 40px;"><br>Vietnam</td>
-    <td><img src="https://flagcdn.com/w40/mo.png" alt="Macau SAR" title="Macau SAR" style="border-radius: 50%; width: 40px;"><br>Macau SAR</td>
-    <td><img src="https://flagcdn.com/w40/mn.png" alt="Mongolia" title="Mongolia" style="border-radius: 50%; width: 40px;"><br>Mongolia</td>
-  </tr>
-</table>
-
-<!-- Latin America -->
-<h3>Latin America</h3>
-<table>
-  <tr>
-    <td><img src="https://flagcdn.com/w40/ar.png" alt="Argentina" title="Argentina" style="border-radius: 50%; width: 40px;"><br>Argentina</td>
-    <td><img src="https://flagcdn.com/w40/br.png" alt="Brazil" title="Brazil" style="border-radius: 50%; width: 40px;"><br>Brazil</td>
-    <td><img src="https://flagcdn.com/w40/cl.png" alt="Chile" title="Chile" style="border-radius: 50%; width: 40px;"><br>Chile</td>
-    <td><img src="https://flagcdn.com/w40/co.png" alt="Colombia" title="Colombia" style="border-radius: 50%; width: 40px;"><br>Colombia</td>
-    <td><img src="https://flagcdn.com/w40/mx.png" alt="Mexico" title="Mexico" style="border-radius: 50%; width: 40px;"><br>Mexico</td>
-  </tr>
-  <tr>
-    <td><img src="https://flagcdn.com/w40/pe.png" alt="Peru" title="Peru" style="border-radius: 50%; width: 40px;"><br>Peru</td>
-    <td><img src="https://flagcdn.com/w40/ve.png" alt="Venezuela" title="Venezuela" style="border-radius: 50%; width: 40px;"><br>Venezuela</td>
-    <td><img src="https://flagcdn.com/w40/bo.png" alt="Bolivia" title="Bolivia" style="border-radius: 50%; width: 40px;"><br>Bolivia</td>
-    <td><img src="https://flagcdn.com/w40/ec.png" alt="Ecuador" title="Ecuador" style="border-radius: 50%; width: 40px;"><br>Ecuador</td>
-    <td><img src="https://flagcdn.com/w40/gt.png" alt="Guatemala" title="Guatemala" style="border-radius: 50%; width: 40px;"><br>Guatemala</td>
-  </tr>
-</table>
-
-<!-- Add similar sections for Catholic Europe, English-Speaking, Orthodox Europe, Protestant Europe, and West & South Asia -->
-
+---
+Here's the complete updated `README.md`, embedding the zoomed-out country flags after the **Project Overview** section and ensuring it is concise yet comprehensive.
 
 ---
+
+# **EthosGPT: Charting the Human Values Landscape on a Global Scale**
+
+![EthosGPT](EthosGPT.webp)
+
+---
+
+## **Project Overview**
+
+In a world increasingly shaped by Large Language Models (LLMs), the need for these systems to align with diverse human values has never been greater. **EthosGPT** is an open-source framework designed to map and evaluate LLMs’ positioning across a multidimensional spectrum of human values, fostering cultural inclusivity and ethical adaptability.
+
+Below is a **zoomed-out view** of flags from the 107 countries grouped by cultural regions. This representation highlights the diversity of nations covered in EthosGPT.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>African-Islamic</th>
+        <th>Confucian</th>
+        <th>Latin America</th>
+        <th>Catholic Europe</th>
+        <th>English-Speaking</th>
+        <th>Orthodox Europe</th>
+        <th>Protestant Europe</th>
+        <th>West & South Asia</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- African-Islamic Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/dz.png" title="Algeria" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/eg.png" title="Egypt" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/ng.png" title="Nigeria" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/pk.png" title="Pakistan" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/tn.png" title="Tunisia" style="border-radius: 50%;">
+          ...
+        </td>
+        <!-- Confucian Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/cn.png" title="China" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/jp.png" title="Japan" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/kr.png" title="South Korea" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/vn.png" title="Vietnam" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/mo.png" title="Macau SAR" style="border-radius: 50%;">
+          ...
+        </td>
+        <!-- Latin America Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/ar.png" title="Argentina" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/br.png" title="Brazil" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/cl.png" title="Chile" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/co.png" title="Colombia" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/mx.png" title="Mexico" style="border-radius: 50%;">
+          ...
+        </td>
+        <!-- Catholic Europe Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/fr.png" title="France" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/it.png" title="Italy" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/es.png" title="Spain" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/pt.png" title="Portugal" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/pl.png" title="Poland" style="border-radius: 50%;">
+          ...
+        </td>
+        <!-- English-Speaking Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/us.png" title="United States" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/gb.png" title="United Kingdom" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/ca.png" title="Canada" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/au.png" title="Australia" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/nz.png" title="New Zealand" style="border-radius: 50%;">
+          ...
+        </td>
+        <!-- Orthodox Europe Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/ru.png" title="Russia" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/ua.png" title="Ukraine" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/gr.png" title="Greece" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/by.png" title="Belarus" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/ro.png" title="Romania" style="border-radius: 50%;">
+          ...
+        </td>
+        <!-- Protestant Europe Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/de.png" title="Germany" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/dk.png" title="Denmark" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/se.png" title="Sweden" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/fi.png" title="Finland" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/nl.png" title="Netherlands" style="border-radius: 50%;">
+          ...
+        </td>
+        <!-- West & South Asia Flags -->
+        <td>
+          <img src="https://flagcdn.com/w40/in.png" title="India" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/id.png" title="Indonesia" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/sa.png" title="Saudi Arabia" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/bd.png" title="Bangladesh" style="border-radius: 50%;"> 
+          <img src="https://flagcdn.com/w40/il.png" title="Israel" style="border-radius: 50%;">
+          ...
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+
 
 ## **Key Features and Core Components**
 
