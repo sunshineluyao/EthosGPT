@@ -11,12 +11,39 @@ In a world increasingly shaped by Large Language Models (LLMs), the need for the
 ## **Key Features and Core Components**
 
 ### 🗺️ **Multidimensional Value Mapping**
-- Visualize LLM performance across cultural and ethical dimensions.
-- Leverage interactive dashboards for deeper insights into alignment.
+- Visualize LLM performance across cultural and ethical dimensions using **comparative analyses of survey data and ChatGPT outputs.**
+
+> **Example 1: Analyze cultural values through indices**  
+> - **Traditional vs Secular-Rational Values**: A scale measuring the emphasis on tradition and authority versus secular and rational perspectives.  
+> - **Survival vs Self-Expression Values**: A scale reflecting the shift from survival priorities to self-expression and quality-of-life concerns.
+
+> **Example 2: Explore region-based discrepancies**  
+> - Data normalized into z-scores for **107 countries/territories**, grouped into **8 cultural regions**:  
+>   - **Regions include:** Confucian, Protestant Europe, Latin America, African-Islamic, etc.  
+> - **Insights:**  
+>   - The **Confucian region** exhibits the **highest discrepancies** in both indices.  
+>   - **Protestant Europe and Latin America** exceed benchmarks for alignment differences.
+
+---
 
 ### 🔍 **Prompt-Based Evaluation**
-- Assess LLMs through structured prompts in diverse ethical and cultural contexts.
-- Explore real-world case studies to highlight strengths and limitations.
+- Assess LLMs using structured prompts simulating responses of an "average individual" from specific countries or regions.
+
+> **Example 1: Comparison with survey data**  
+> - Compare ChatGPT's simulated cultural indices against **original survey data** (Haerpfer et al., 2022).  
+> - **Strength:** Consistent alignment in secular-rational values for **English-Speaking regions** (e.g., USA, UK).  
+> - **Weakness:** Underrepresentation of **self-expression values** in **African-Islamic regions** (e.g., Egypt, Morocco).
+
+> **Example 2: Evaluate discrepancies using MSE analysis**  
+> - **Mean Square Error (MSE)** identifies regions with significant deviations.  
+> - **Benchmarks:**  
+>   - Traditional vs Secular: ~0.4  
+>   - Survival vs Self-Expression: ~0.6  
+> - **Insights:**  
+>   - Regions with **higher MSE (e.g., Confucian regions)** indicate larger deviations between ChatGPT predictions and survey data.
+
+---
+
 
 ### 📊 **Interactive Data Tools**
 - Analyze LLM outputs with advanced tools that foster cross-domain collaboration.
