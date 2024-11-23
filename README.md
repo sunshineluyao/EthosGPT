@@ -99,8 +99,10 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
         <td><strong>Demo 1: Cultural Values Comparison: Survey vs ChatGPT</strong></td>
         <td>Compare cultural value indices derived from human survey data with ChatGPT-generated responses, highlighting similarities and discrepancies across cultural dimensions.</td>
         <td>
-          - Examine how ChatGPT aligns with human-surveyed cultural dimensions like individualism and power distance.  
-          - Spot biases or deviations in AI outputs versus human-derived indices.
+          <ul>
+            <li>Examine how ChatGPT aligns with human-surveyed cultural dimensions like individualism and power distance.</li>
+            <li>Spot biases or deviations in AI outputs versus human-derived indices.</li>
+          </ul>
         </td>
         <td><a href="https://cultural-indices-dashboard.onrender.com/" target="_blank">Open App</a></td>
         <td><a href="https://github.com/sunshineluyao/cultural-indices-dashboard" target="_blank">GitHub Repo</a></td>
@@ -109,8 +111,10 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
         <td><strong>Demo 2: Mean Square Error (MSE) Analysis by Cultural Region</strong></td>
         <td>Analyze the accuracy of ChatGPT's cultural values predictions across regions by comparing Mean Square Error (MSE) metrics, providing insight into areas for improvement.</td>
         <td>
-          - Assess the accuracy of ChatGPT’s responses for different regions through MSE metrics.  
-          - Highlight regions where ChatGPT’s cultural representations need improvement.
+          <ul>
+            <li>Assess the accuracy of ChatGPT’s responses for different regions through MSE metrics.</li>
+            <li>Highlight regions where ChatGPT’s cultural representations need improvement.</li>
+          </ul>
         </td>
         <td><a href="https://culture-indices-mse.onrender.com/" target="_blank">Open App</a></td>
         <td><a href="https://github.com/sunshineluyao/culture-indices-mse" target="_blank">GitHub Repo</a></td>
@@ -119,8 +123,10 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
         <td><strong>Demo 3: Cultural Values Map</strong></td>
         <td>Visualize cultural value indices on an interactive map, enabling global comparisons between survey data and ChatGPT outputs.</td>
         <td>
-          - Gain a visual understanding of global cultural indices through a map.  
-          - Compare and contrast ChatGPT’s outputs with survey data across regions and nations.
+          <ul>
+            <li>Gain a visual understanding of global cultural indices through a map.</li>
+            <li>Compare and contrast ChatGPT’s outputs with survey data across regions and nations.</li>
+          </ul>
         </td>
         <td><a href="https://culture-indices-map.onrender.com/" target="_blank">Open App</a></td>
         <td><a href="https://github.com/sunshineluyao/culture-indices-map" target="_blank">GitHub Repo</a></td>
@@ -128,6 +134,7 @@ Empower users with tools that break disciplinary boundaries, fostering cross-dom
     </tbody>
   </table>
 </div>
+
 ---
 
 ## **How It Works**
