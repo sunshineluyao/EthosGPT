@@ -13,31 +13,9 @@
       </a>
     </li>
     <li style="margin: 10px 0;">
-      <a href="#global-representation-of-diversity" style="text-decoration: none; color: #007acc; font-weight: bold;">
-        🌍 Global Representation of Diversity
-      </a>
-    </li>
-    <li style="margin: 10px 0;">
       <a href="#key-features-and-core-components" style="text-decoration: none; color: #007acc; font-weight: bold;">
         ✨ Key Features and Core Components
       </a>
-      <ul style="list-style: none; padding: 0; margin: 10px 20px;">
-        <li style="margin: 5px 0;">
-          <a href="#multidimensional-value-mapping" style="text-decoration: none; color: #007acc;">
-            🗺️ Multidimensional Value Mapping
-          </a>
-        </li>
-        <li style="margin: 5px 0;">
-          <a href="#prompt-based-evaluation" style="text-decoration: none; color: #007acc;">
-            🔍 Prompt-Based Evaluation
-          </a>
-        </li>
-        <li style="margin: 5px 0;">
-          <a href="#interactive-data-tools" style="text-decoration: none; color: #007acc;">
-            📊 Interactive Data Tools
-          </a>
-        </li>
-      </ul>
     </li>
     <li style="margin: 10px 0;">
       <a href="#why-ethosgpt" style="text-decoration: none; color: #007acc; font-weight: bold;">
@@ -56,6 +34,7 @@
     </li>
   </ul>
 </div>
+
 
 
 
