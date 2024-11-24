@@ -413,6 +413,8 @@
 
 ### 🔓 **Open-Source and Research-Driven**
 
+### 🔓 **Open-Source and Research-Driven**
+
 <div>
   <blockquote>
     <p>
@@ -422,7 +424,9 @@
   <table>
     <tr>
       <td>📚</td>
-      <td>**Research-Backed:** Studies like [CVALUES][1] and [CultureLLM][2] provide robust foundations for culturally sensitive AI analysis.</td>
+      <td>
+        <b>Research-Backed:</b> Studies like [CVALUES][1] and [CultureLLM][2] provide robust foundations for culturally sensitive AI analysis.
+      </td>
     </tr>
     <tr>
       <td>🌐</td>
@@ -434,6 +438,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
