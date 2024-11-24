@@ -1,5 +1,50 @@
 # **EthosGPT: Charting the Human Values Landscape on a Global Scale**
 
+<div align="center" style="margin: 30px 0; font-family: Arial, sans-serif;">
+  <a href="https://ethosgpt-n2jvbwe.gamma.site/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #007acc; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      🌐 Main Webpage
+    </button>
+  </a>
+  <a href="https://github.com/sunshineluyao/ethosgpt" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #333; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      💻 GitHub Repo
+    </button>
+  </a>
+  <a href="https://cultural-indices-dashboard.onrender.com/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      🌍 Values Dashboard
+    </button>
+  </a>
+  <a href="https://github.com/sunshineluyao/cultural-indices-dashboard" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #007acc; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      💻 Dashboard Repo
+    </button>
+  </a>
+  <a href="https://culture-indices-mse.onrender.com/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      📊 MSE Analysis
+    </button>
+  </a>
+  <a href="https://github.com/sunshineluyao/culture-indices-mse" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #007acc; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      💻 MSE Repo
+    </button>
+  </a>
+  <a href="https://culture-indices-map.onrender.com/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      🗺️ Values Map
+    </button>
+  </a>
+  <a href="https://github.com/sunshineluyao/culture-indices-map" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #007acc; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      💻 Map Repo
+    </button>
+  </a>
+</div>
+
+---
+
 ![EthosGPT](EthosGPT.webp)
 
 ---
@@ -392,7 +437,6 @@
 ---
 
 
-### 🔓 **Open-Source and Research-Driven**
 
 ### 🔓 **Open-Source and Research-Driven**
 
