@@ -231,7 +231,7 @@
 ## **Key Features and Core Components**
 
 ### 🗺️ **Multidimensional Value Mapping**
-- Visualize LLM performance across cultural and ethical dimensions using **comparative analyses of survey data and ChatGPT outputs.**
+- Visualize LLM performance across cultural and ethical dimensions using comparative analyses of survey data and ChatGPT outputs. <a href="#footnote-5">[5]</a> <a href="#footnote-6">[6]</a>.**
 
 > **Example 1: Analyze cultural values through indices**  
 > - **Traditional vs Secular-Rational Values**: A scale measuring the emphasis on tradition and authority versus secular and rational perspectives.  
