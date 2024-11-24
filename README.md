@@ -1,7 +1,7 @@
 # **EthosGPT: Charting the Human Values Landscape on a Global Scale**
 
 <div align="center" style="margin: 30px 0; font-family: Arial, sans-serif;">
-  <div style="display: inline-block; padding: 20px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: inline-block; padding: 20px; background-color: #e0f7fa; border-radius: 10px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);">
     <a href="https://ethosgpt-n2jvbwe.gamma.site/" target="_blank" style="text-decoration: none;">
       <button style="padding: 15px 30px; background-color: #007acc; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; margin: 10px;">
         🌐 Main Webpage
@@ -44,6 +44,7 @@
     </a>
   </div>
 </div>
+
 
 
 ---
